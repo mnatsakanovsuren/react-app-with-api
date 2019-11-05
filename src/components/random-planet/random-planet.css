@@ -1,0 +1,22 @@
+.random-planet {
+    display: flex;
+}
+.random-planet-info {
+    flex-grow: 1;
+    padding: 0 15px;
+}
+.planet-image-wrap {
+    display: flex;
+    width: 250px;
+    padding: 0 15px;
+    border-collapse: separate;
+}
+.planet-image {
+    max-width: 100%;
+    border-radius: 10px;
+    border-collapse: separate;
+}
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+}
