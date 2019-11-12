@@ -35,7 +35,6 @@ export default class ItemList extends Component{
     }
 
     onItemSelected = () => {
-        console.log(this);
     };
 
     render() {

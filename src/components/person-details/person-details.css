@@ -1,0 +1,14 @@
+.person-details {
+    padding: 15px 15px;
+}
+.person-details-image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.card-body {
+    padding: 0;
+}
+.list-group-item {
+    padding: 12px;
+}
